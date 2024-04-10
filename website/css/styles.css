@@ -1,0 +1,36 @@
+body{
+    background-color:azure;
+    color:black;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+h5{
+    text-align: center;
+    font-style: italic;
+}
+a{
+    color:black;
+}
+a:visited{
+    color: darkgrey;
+}
+img{
+    border: 2px solid rgb(39, 39, 239);
+    padding: 8px;
+    margin: 10px;
+    /*centers stuff*/
+    display: block;
+    margin: auto;
+}
+.rizz{
+    font-size: medium;
+    color: darkgreen;
+    font-style: italic;
+}
+
+li{
+    text-decoration: underline;
+}

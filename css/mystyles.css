@@ -1,0 +1,11 @@
+body{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+/* this is saying that the nearest thing to the thing i want to change is being overwritten so that I can change it. If it doesn't work, overwrite everything by using !important */
+.site-heading-lower{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: red !important
+}
+.intro-text{
+    box-shadow: 15px 15px 20 px rgba(0, 0, 0, 0.5);
+}
